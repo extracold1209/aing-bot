@@ -1,0 +1,6 @@
+[submodule "discord-aing-bot"]
+	path = discord-aing-bot
+	url = https://github.com/extracold1209/discord-aing-bot
+[submodule "discord-aing-fishing-bot"]
+	path = discord-aing-fishing-bot
+	url = https://github.com/extracold1209/discord-aing-fishing-bot.git
